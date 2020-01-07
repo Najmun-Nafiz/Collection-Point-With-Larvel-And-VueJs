@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//For admin-lte-3
+@import '~admin-lte/dist/css/adminlte.css';
+
+//For fontawesome
+$fa-font-path:"../webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+//For Vue-Snotify
+@import "~vue-snotify/styles/material";

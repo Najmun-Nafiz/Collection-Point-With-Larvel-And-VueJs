@@ -1,0 +1,45 @@
+
+
+#table_bac{
+
+	background-color: #ab0db0b0;
+}
+
+#table_head_bac{
+	padding: 5px;
+	background-color: #ab0db0b0
+}
+
+
+
+#bac_change:hover {
+    color: #ffffff;
+	background-color: rgba(84, 38, 246, 0.71);
+}
+
+#add_info {
+    margin-top: 9px;
+}
+
+
+/*Frontend css file...*/
+
+
+#table_bac_front{
+	padding: 15px;
+	background-color: #4f596470;
+}
+
+#body_border{
+	border: 10px solid #a8a8a8c7;
+}
+
+#table_head_bac_front{
+	padding: 5px;
+	background-color: #ab0db0b0;
+}
+
+
+
+
+
